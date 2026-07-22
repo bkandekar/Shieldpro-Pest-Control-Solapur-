@@ -1,0 +1,6 @@
+{
+  "name": "ShieldPro Pest Control",
+  "description": "Modern static website & mobile application for ShieldPro Pest Control in Solapur, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
